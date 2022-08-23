@@ -46,4 +46,4 @@ MONGO_URL = YourDatabaseConnectionUrl
 SECRET_KEY = YourSecretKey for CryptoJS
 ``` 
 
-> Credit: LamaDev(YT)
+
